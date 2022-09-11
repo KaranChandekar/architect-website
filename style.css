@@ -573,3 +573,33 @@ html {
   text-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.5);
   box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.3);
 }
+
+.footer {
+  width: 100%;
+  height: 15rem;
+  background-color: #17181b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-content {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.copyright {
+  font-family: "Baloo Da 2", serif;
+  font-size: 1.6rem;
+  color: #a7a7a7;
+}
+
+.social-list a {
+  margin: 0 2rem;
+}
+
+.social-list i {
+  font-size: 2rem;
+  color: #a7a7a7;
+}
