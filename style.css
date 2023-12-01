@@ -280,14 +280,14 @@ html {
 
 .banner h1 {
   font-family: "Baloo Da 2", serif;
-  font-size: 8rem;
+  font-size: 10rem;
   justify-content: center;
   font-weight: 300;
-  color: #1a439b;
+  color: #ffffff;
   width: 50%;
   line-height: 9rem;
   letter-spacing: 0.2rem;
-  text-shadow: 0 0.3rem 0.5rem rgba(241, 5, 5, 0.582);
+  text-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.582);
   opacity: 0;
   animation: moveBanner 1s 0.5s forwards;
 }
