@@ -287,7 +287,7 @@ html {
   width: 50%;
   line-height: 9rem;
   letter-spacing: 0.2rem;
-  text-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.582);
+  text-shadow: 0 0.3rem 0.5rem rgba(75, 68, 68, 0.582);
   opacity: 0;
   animation: moveBanner 1s 0.5s forwards;
 }
